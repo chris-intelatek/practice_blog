@@ -1,6 +1,6 @@
 == README
 
-This is a simple blog application written by Chris Cunningham solely for practice and template purposes.
+This is a very simple blog application written by Chris Cunningham solely for practice and template purposes.
 
 This was written using the Ruby on Rails framework.
 
@@ -8,6 +8,9 @@ Ruby 2.3.0
 
 Rails 4.2.5
 
+
 Chris Cunningham
+
 (910) 528-1421
+
 chris(at)intelatek.com
