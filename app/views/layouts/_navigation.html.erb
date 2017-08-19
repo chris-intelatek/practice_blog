@@ -49,6 +49,7 @@
               <li><a href="#">Separated link</a></li>
             </ul>
           </li>
+          <li><%= gravatar_for current_user, size: 50 %></li>
         <% else %>
           <li><%= link_to 'Log in', login_path %></li>
           <li><%= link_to 'Sign up', signup_path %></li>
