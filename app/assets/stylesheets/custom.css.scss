@@ -64,6 +64,17 @@ $navbar-default-bg: #081833;
   padding-left: 0;
 }
 
+.badge {
+  background-color: #abcdef;
+  text-transform: capitalize;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.input_checkbox input {
+  with: auto !important;
+}
+
 .article-meta-details {
   border-top: 1px solid #eaeaea;
   margin-top: 15px;
